@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/bordeaux"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/coral"
+        android:text="Application created by: Joe Fletcher, Ben Kodres, and Seth Nute.
+        November, 2013
+        
+        
+        
+        
+        
+        To save a route as a favorite, select a route from the routes tab. Once you have selected a route, a list of bus stops should be displayed. From this screen, click the menu button on your android device and select 'Save this route as a favorite' 
+        To exit this screen, press the back button on your android device"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout>

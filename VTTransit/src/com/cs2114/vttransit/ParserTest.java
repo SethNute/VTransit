@@ -10,9 +10,10 @@ import com.cs2114.vttransit.TBXML.TBXMLException;
  * 
  * @author Seth Nute (seth12)
  * @author Ben Kodres (bkobrien)
- * @author Joe Fletcher (jbfletch12)
+ * @author Joe Fletcher (joevt)
  * @version 11/8/13
  */
+ 
 public class ParserTest extends student.TestCase {
 
 	private Parser parser;

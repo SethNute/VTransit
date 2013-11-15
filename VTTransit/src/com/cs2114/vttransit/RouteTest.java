@@ -6,7 +6,7 @@ package com.cs2114.vttransit;
  * 
  * @author Seth Nute (seth12)
  * @author Ben Kodres (bkobrien)
- * @author Joe Fletcher (jbfletch12)
+ * @author Joe Fletcher (joevt)
  * @version 11/8/13
  */
 public class RouteTest extends student.TestCase {

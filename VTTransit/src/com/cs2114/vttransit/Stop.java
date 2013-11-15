@@ -8,7 +8,7 @@ import java.util.List;
  * 
  * @author Seth Nute (seth12)
  * @author Ben Kodres (bkobrien)
- * @author Joe Fletcher (jbfletch12)
+ * @author Joe Fletcher (joevt)
  * @version 11/8/2013
  */
 public class Stop {

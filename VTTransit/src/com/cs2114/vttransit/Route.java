@@ -6,15 +6,13 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import android.app.Activity;
-
 /**
  * A class for storing information about a specific route, identified by its
  * fullName and shortName
  * 
  * @author Seth Nute (seth12)
  * @author Ben Kodres (bkobrien)
- * @author Joe Fletcher (jbfletch12)
+ * @author Joe Fletcher (joevt)
  * @version 11/8/13
  */
 public class Route {
